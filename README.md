@@ -1,22 +1,20 @@
 👋 Hai, kenalin Namaku Ryan Jauhari suka koding sejak tahun 2013
-Ini adalah halaman githubku yang baru, disini aku akan berbagi
-Project dan source kode gratis.
+Ini adalah halaman githubku yang baru, di sini aku berbagi code gratisan yang aku temukan melalui experiment sederhana untuk membuat sebuah aplikasi berbasis cloud dengan effisiensi dan harga yang lebih murah. 
+Kamu juga bisa menemukan topik terkait coding di blog [GTDuit News](https://gtduit.com), selain menulis di [RyanID](https://ryanid.my.id) aku juga menulis di Gtduit.
+
+# MyJob
+Aku seorang penulis, dan digital kreator konten di Youtube. Saat ini sedang mencoba mengembangkan sebuah layanan digital berbasis cloud di Netzku.
+Sangat tertarik dengan dunia teknologi cloud computing dan elektronika, terimakasih sudah mampir. Lihat repositori di sini untuk mendapatkan code gratis yang dapat kamu gunakan di project kamu. 
 
 
-# Blog
-Aku juga seorang blogger tapi itu kebih dari sekedar blogger, sebab aku lebih sering
-Mengoprek koding dibandingkan membuat artikel. Aku suka yang sederhana dan mudah, oleh sebab itu
-Aku lebih suka mengembangkan software aplikasi sendiri dibandingkan menggunakan buatan orang lain.
-Jangan lupa berkunjung ke Blogku di [RYANID.MY.ID](https://ryanid.my.id) baik buat sekedar baca-baca atau melihat
-Project baru yang sedang aku kembangkan. Di Blog aku membahas berbagai hal
-- Artikel Berita
-- Artikel Tips
-- Belajar Koding
-- Belajar Instan Artikel
-- Dan Unduhan File Gratis
+
+# Bahasa Pemrograman Favorit
+Bahasa pertamaku PHP, kemudian di susul dengan HTML & CSS, lalu kemudian JavaScript. Saat ini aku sedang mendalami dan mempelajari bahasa pemrograman 
+python dan pengguanaan alat nodejs untuk mengembangkan aplikasi.  
+
+Untuk belajar aku membutuhkan dukungan finansial, Netzku dan beberapa blog yang aku buat memberikan dukungan finansial selama aku belajar.
+Jika kamu ingin berdonasi, bisa klik halaman donasi berikut ini.
+[Buy Me A cofee](https://pink.my.id/admin_bae)
 
 
-# Sosial Media
-Saat ini aku tidak punya sosial media publik, internet jauh lebih buruk dibanding yang aku bayangkan
-Kamu masih tetap bisa terhubung dan berteman bila mau, hubungi telegtam @RyanX untuk chat atau
-sekedar basa basi biasa.
+
