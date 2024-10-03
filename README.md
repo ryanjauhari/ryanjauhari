@@ -15,4 +15,4 @@ Cloud App and Web app developer with expertise in building scalable applications
 
 
 ## 📚 Language & Tech Stack
-![Tech Stack]([https://skillicons.dev/icons?i=php,html,,ts,go,,react,next,,docker,nginx,cloudflare](https://skillicons.dev/icons?i=php,html,jquery,bootstrap,,nodejs,bun,javascript,python,,nginx,cloudflare))
+![Tech Stack](https://skillicons.dev/icons?i=php,html,jquery,bootstrap,,nodejs,bun,javascript,python,,nginx,cloudflare)
