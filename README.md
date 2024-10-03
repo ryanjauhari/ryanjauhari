@@ -1,20 +1,18 @@
-👋 Hai, kenalin Namaku Ryan Jauhari suka koding sejak tahun 2013
-Ini adalah halaman githubku yang baru, di sini aku berbagi code gratisan yang aku temukan melalui experiment sederhana untuk membuat sebuah aplikasi berbasis cloud dengan effisiensi dan harga yang lebih murah. 
-Kamu juga bisa menemukan topik terkait coding di blog [GTDuit News](https://gtduit.com), selain menulis di [RyanID](https://ryanid.my.id) aku juga menulis di Gtduit.
+# @RyanID/Ryan Jauhari
 
-# MyJob
-Aku seorang penulis, dan digital kreator konten di Youtube. Saat ini sedang mencoba mengembangkan sebuah layanan digital berbasis cloud di Netzku.
-Sangat tertarik dengan dunia teknologi cloud computing dan elektronika, terimakasih sudah mampir. Lihat repositori di sini untuk mendapatkan code gratis yang dapat kamu gunakan di project kamu. 
+Cloud App and Web app developer with expertise in building scalable applications, including Telegram bots, WhatsApp integrations, and REST APIs. Passionate about leveraging technology, electronics, and IoT to drive innovation and efficiency. Continuously focused on enhancing programming skills and delivering impactful solutions.
 
-
-
-# Bahasa Pemrograman Favorit
-Bahasa pertamaku PHP, kemudian di susul dengan HTML & CSS, lalu kemudian JavaScript. Saat ini aku sedang mendalami dan mempelajari bahasa pemrograman 
-python dan pengguanaan alat nodejs untuk mengembangkan aplikasi.  
-
-Untuk belajar aku membutuhkan dukungan finansial, Netzku dan beberapa blog yang aku buat memberikan dukungan finansial selama aku belajar.
-Jika kamu ingin berdonasi, bisa klik halaman donasi berikut ini.
-[Buy Me A cofee](https://pink.my.id/admin_bae)
+## 📂 Our Work
+- [Netzku](https://netzku.com) - 🔥 Bot dashboard to manage all cloud like bot telegram and whatsapp bot.
+- [PinkShortener](https://pink.my.id) - ⭐️ Digial platform that can be used to get founding from digital content.
+- [Gtduit News](https://gtduit.com) - ⭐️ Jurnal blog to write anything
+- [RyanID Blog](https://ryanid.my.id) - ⭐️ Old Notes build with File Base CMS.
 
 
+## 📪 Reach Me at
+- Telegram : [@RyanX](https://t.me/ryanx)
+- LinkedIn : [Ryan Jauhari]([https://www.linkedin.com/in/mimamch/](https://www.linkedin.com/in/ryanjauhari/))
 
+
+## 📚 Language & Tech Stack
+![Tech Stack]([https://skillicons.dev/icons?i=php,html,,ts,go,,react,next,,docker,nginx,cloudflare](https://skillicons.dev/icons?i=php,html,jquery,bootstrap,,nodejs,bun,javascript,python,,nginx,cloudflare))
