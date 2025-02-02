@@ -30,4 +30,4 @@ Saya lebih fokus menjual hak guna dari program tersebut dengan model berlanggaan
 Pertumbuhan dari setiap pekerjaan yang saya kerjakan memang cukup lambat, di karenakan butuh pendanaan yang lebih. Sementara saya hanya mengandalkan diri sendiri untuk mengahanlde semua ekossistem nya, mulai 
 perencanan, pembuatan, pemeliharaan berkala, pemasaran, dukungan pelanggan, dan juga aktif menjalankan bisnis ini namun dengan penghasilan yang rendah.
 
-Saya berharap project yang di buat bisa mendapatkan lebih banyak funding untuk dapat berkembang,  dan meningkatkan kualitas layanan. Siapa tahu kan ada aja keajaiban.
+Work is very hard, terlebih lagi jika kita berada di tempat tinggal yang kurang mendukung pengembangan diri. Internet membantu semua orang untuk dapat berhasil dalam melewati kesulitan finansial. Terkadang ada yang berhasil, ada juga yang gagal.
